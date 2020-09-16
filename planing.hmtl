@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+
+<title>CONTENIDO EN HTML</title>
+
+<body>
+
+<h1>Contenido en HTML</h1>
+
+<h2> OBJETIVO GENERAL </h2>
+<p>Desarrolar cinco OVAs del curso de Diseños de Sitios Web</p><br>
+
+<h2>OBJETIVOS ESPECIFICOS</h2><br>
+<p>
+<ul>
+    <li>Realización del Mockup del OVA</li>
+    <li>Creación de la página planning.hmtl</li>
+    <li>Organizar las evidencias de la atividad fase 2</li>
+    <li>Entregar evidencias de acuerdo a la rubrica de evaluación</li>
+</ul>
+</p><br>
+
+<h2>MATERIALES</h2><br>
+<p>
+<ol>
+<li><strong>Visual Studio Code</strong><br>
+Enlace de Descarga: <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code </a></li>
+<li></li>
+<li></li>
+</ol>
+</p>
+
+
+</body>
+</html>
