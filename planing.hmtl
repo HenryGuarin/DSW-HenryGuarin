@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="es">
 
-<title>CONTENIDO EN HTML</title>
+<head>
+    <title>CONTENIDO EN HTML</title>
+    <meta name="author" content="Henry Guarín R.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+</head>
 
 <body>
 
@@ -11,25 +16,27 @@
 <h2> OBJETIVO GENERAL </h2>
 <p>Desarrolar cinco OVAs del curso de Diseños de Sitios Web</p><br>
 
-<h2>OBJETIVOS ESPECIFICOS</h2><br>
-<p>
+<h2>OBJETIVOS ESPECIFICOS</h2>
+
 <ul>
     <li>Realización del Mockup del OVA</li>
     <li>Creación de la página planning.hmtl</li>
     <li>Organizar las evidencias de la atividad fase 2</li>
     <li>Entregar evidencias de acuerdo a la rubrica de evaluación</li>
 </ul>
-</p><br>
 
-<h2>MATERIALES</h2><br>
-<p>
+<h2>MATERIALES</h2>
+
 <ol>
-<li><strong>Visual Studio Code</strong><br>
-Enlace de Descarga: <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code </a></li>
-<li></li>
-<li></li>
+ <li><strong>Visual Studio Code</strong><br>
+ Enlace de Descarga: <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code </a></li>
+ <li><strong>Github</strong><br>
+Enlace de Descarga: <a href="https://github.com/" target="_blank">Github</a></li>
+ <li><strong>Balsamiq</strong><br>
+Enlace de Descarga: <a href="https://balsamiq.com/wireframes/desktop/" target="_blank"> Balsamiq </a></li>
+<li><strong>Guía de actividades Fase 2</strong><br>
+Enlace de Descarga: <a href="documentos/Guía de actividades y rúbrica de evaluación - Fase 2 - Diseño - Crear el Guión y la maquetación para un OVI.docx" download="Guía de actividades Fase 2.docx">Guía de Actividades Fase 2</a></li>
 </ol>
-</p>
 
 
 </body>
