@@ -14,9 +14,9 @@
 <h1>Contenido en HTML</h1>
 
 <h2> OBJETIVO GENERAL </h2>
-<p>Desarrolar cinco OVAs del curso de Diseños de Sitios Web</p><br>
+<p>Desarrolar cinco OVAs del curso de Diseños de Sitios Web</p>
 
-<h2>OBJETIVOS ESPECIFICOS</h2>
+<h3>OBJETIVOS ESPECIFICOS</h3>
 
 <ul>
     <li>Realización del Mockup del OVA</li>
@@ -38,6 +38,13 @@ Enlace de Descarga: <a href="https://balsamiq.com/wireframes/desktop/" target="_
 Enlace de Descarga: <a href="documentos/Guía de actividades y rúbrica de evaluación - Fase 2 - Diseño - Crear el Guión y la maquetación para un OVI.docx" download="Guía de actividades Fase 2.docx">Guía de Actividades Fase 2</a></li>
 </ol>
 
+<h2>CONTENIDO EN HTML</h2>
+<h3>SECTION</h3>
+ <p>La etiqueta <strong>section</strong> sirve para definir secciones en nuestra página web. <br>
+Esto es un ejemplo:</p>
+ <source src="imagenes/section.png" type="imagen/png">
 
+<h3>ASIDE</h3>
+<p><strong>Aside</strong> nos sirve</p>
 </body>
 </html>
