@@ -36,6 +36,8 @@ Enlace de Descarga: <a href="https://github.com/" target="_blank">Github</a></li
 Enlace de Descarga: <a href="https://balsamiq.com/wireframes/desktop/" target="_blank"> Balsamiq </a></li>
 <li><strong>Guía de actividades Fase 2</strong><br>
 Enlace de Descarga: <a href="documentos/Guía de actividades y rúbrica de evaluación - Fase 2 - Diseño - Crear el Guión y la maquetación para un OVI.docx" download="Guía de actividades Fase 2.docx">Guía de Actividades Fase 2</a></li>
+<li><strong>W3schools</strong><br>
+Enlace de acceso: <a href="https://www.w3schools.com/" target="_blank">www.w3schools.com</a></li>
 </ol>
 
 <h2>CONTENIDO EN HTML</h2>
@@ -45,6 +47,25 @@ Esto es un ejemplo:</p>
  <source src="imagenes/section.png" type="imagen/png">
 
 <h3>ASIDE</h3>
-<p><strong>Aside</strong> nos sirve</p>
+
+<p><strong>Aside</strong> nos sirve para mostrar información relevante o correlacionada
+     al contenido de nuestra página, se suele utilizar en la barra lateral al section colocando por ejemplo articulos relacionados o enlaces a la sección de contacto.
+</p>
+
+<h3>FOOTER</h3>
+
+<p>El footer es la sección en la cual se define el fin de nuestra página web, se suele colocar enlaces a páginas de nuestro sitio web.
+    También se puede colocar en esta sección información las politicas de cookies, marco legal, el Copyrigyh, trabaja con nosotros, etc..
+</p>
+
+<h3>ARTICLE</h3>
+
+<P>Esta etiqueta tiene la función de crear contenido independiente y autonomo, con ella podemos definir articulos y acomodarlos en nuestra pagina con ayuda de CSS.
+En las ocasiones en que necesitamos separar el texto más allá de un simple parrafo <strong>article</strong> es esencial para ello.
+</P>
+
+<h2 align="center"> MOCKUP DE PÁGINA INDEX.HTML</h2>
+<img src="imagenes/mockup.png" alt="Imagen de Mockup Index.html">
+
 </body>
 </html>
