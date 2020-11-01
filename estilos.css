@@ -1,6 +1,6 @@
 .menu{
     background-color: #005883;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: block;
+    display: inline;
     width: 60px;
 }
