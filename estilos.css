@@ -1,9 +1,39 @@
 .menu{
-    background-color: #005883;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: inline;
-    width: 60px;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    width: 100%;
+    background-color: #005883;
+    border: 2px solid #F47920;
+    border-bottom: 0px;
 }
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 2px solid #F47920;
+    text-align: center;
+  }
+  
+  li:last-child {
+    border-bottom: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #50B748;
+    color: #005883;
+  }
+
+body{
+    font-family: 'Franklin Gothic Medium','Arial';
+}
+
+h1{
+text-align: center;
+}
+
+h2{
+    text-align: center;
+    }
