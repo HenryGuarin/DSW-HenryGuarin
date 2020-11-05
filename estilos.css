@@ -31,9 +31,21 @@ body{
 }
 
 h1{
-text-align: center;
+  text-align: center;
+  color: #A54686;
 }
 
 h2{
     text-align: center;
-    }
+    color: #F47920;
+  }
+
+h3{
+    text-align: center;
+    color: #005883;
+  }
+
+  .img { 
+    vertical-align: middle;
+
+  }
