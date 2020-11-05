@@ -26,6 +26,25 @@ li a {
     color: #005883;
   }
 
+  ol a {
+    display: inline-block;
+    color: #005883;
+    padding: 2px 4px;
+    text-decoration: none;
+    border: 2px solid #50B748;
+    text-align: center;
+    background-color: #F47920;
+  }
+  
+  ol:last-child {
+    border-bottom: none;
+  }
+  
+  ol a:hover:not(.active) {
+    background-color: #867580;
+    color: #005883;
+  }
+
 body{
     font-family: 'Franklin Gothic Medium','Arial';
 }
